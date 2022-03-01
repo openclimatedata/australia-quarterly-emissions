@@ -1,6 +1,6 @@
 # Australian Quarterly emissions updates
 
-<a download="australia-quarterly-emissins.zip" href="https://github.com/openclimatedata/australia-quarterly-emissions/archive/refs/heads/main.zip">Download</a>
+<a href="https://github.com/openclimatedata/australia-quarterly-emissions/archive/refs/heads/main.zip">Download</a>
 
 Data from the report
 [“Quarterly Update of Australia’s National Greenhouse Gas Inventory: September 2021”](https://www.industry.gov.au/data-and-publications/national-greenhouse-gas-inventory-quarterly-update-september-2021)
