@@ -5,7 +5,7 @@
 Data from the report
 [“Quarterly Update of Australia’s National Greenhouse Gas Inventory: September 2021”](https://www.industry.gov.au/data-and-publications/national-greenhouse-gas-inventory-quarterly-update-september-2021)
 
-CSV versions of the quarterly emissions data available form the
+CSV versions of the quarterly emissions data available from the
 [Department of Industry, Science, Energy and Resources](https://www.industry.gov.au/).
 
 This repository provides a conversion to CSV files of the data
