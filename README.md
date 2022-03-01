@@ -8,7 +8,7 @@ Data from the report
 CSV versions of the quarterly emissions data available form the
 [Department of Industry, Science, Energy and Resources](https://www.industry.gov.au/).
 
-This repository provides a transcription of the data as CSV files
+This repository provides a conversion to CSV files of the data
 by gas (CO₂, CH₄, N₂O, other) and sector (Electricity, Stationary Energy (excluding electricity),
 Transport, Fugitive Emissions, Industrial Processes, Agriculture, LULUCF, Waste) in Mt CO₂-e.
 
